@@ -2,7 +2,7 @@
  //Cliente axios para hacer peticiones
  
  const clienteAxios = axios.create({
-    baseURL: 'http://diegojvtest.ddns.net/productos'
+    baseURL: 'http://localhost:4000/'
 
  });
  export default clienteAxios
