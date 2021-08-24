@@ -1,0 +1,24 @@
+{
+  "productos": [
+    {
+      "nombre": "Leche2.5lt",
+      "precio": "72",
+      "id": 16
+    },
+    {
+      "nombre": "tortillas 3kg",
+      "precio": 34,
+      "id": 18
+    },
+    {
+      "nombre": "Aceite de oliva 1lt",
+      "precio": 50,
+      "id": 20
+    },
+    {
+      "nombre": "Alcohol 1lt",
+      "precio": 43,
+      "id": 21
+    }
+  ]
+}
